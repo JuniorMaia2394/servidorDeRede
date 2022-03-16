@@ -1,2 +1,6 @@
-source /home/juinin/Documentos/"servidores de rede"/gerar_historico_arquivo.sh
-source /home/juinin/Documentos/"servidores de rede"/gerar_html.sh
+#!/bin/bash
+cd "$(dirname "$0")"
+local=$(pwd)
+source $local/gerar_historico_arquivo.sh
+source $local/gerar_html.sh
+source $local/settings.sh
