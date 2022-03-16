@@ -1,7 +1,0 @@
-2022-03-15T23:06:01-03:00
-juinin-VirtualBox
-1,5Gi
-2,0Gi
-8.9 code
-1,9G 0% /dev 393M 1% /run 15G 71% / 2,0G 3% /dev/shm 5,0M 1% /run/lock 2,0G 0% /sys/fs/cgroup 511M 1% /boot/efi 393M 1% /run/user/1000 59M 100% /media/juinin/VBox_GAs_6.1.321
-lo: 982650 9310 982650 9310 enp0s3: 544678496 392009 14687884 144616
